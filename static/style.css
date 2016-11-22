@@ -15,7 +15,7 @@ body {
 }
 
 #navbartext {
-	font-size: 150%;
+	font-size: 1.8em !important;
 	font-family: 'Bungee Inline', cursive;
 	font-color: white;
 }
