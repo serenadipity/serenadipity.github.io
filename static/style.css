@@ -6,17 +6,27 @@ body {
   text-align: center;
 }
 
-#navbartext {
-	font-size: 150%;
+#font1 {
+	font-family: 'Bungee Inline', cursive;
 }
 
-/* Adjust Menu colors - Normal */
+#font2 {
+	font-family: 'Alfa Slab One', cursive;
+}
+
+#navbartext {
+	font-size: 150%;
+	font-style: 
+}
+
+/* Adjust Menu colors - Normal 
 .navbar .nav > li > a, .navbar .nav > li > a:first-letter {
 color:          lightgray;
 text-shadow:    none;
 }
-/* Adjust Menu colors - Hover */
+/* Adjust Menu colors - Hover 
 .navbar .nav > li > a:hover, .navbar .nav > li > a:hover:first-letter { 
 color:          white;                      
 text-shadow:    none;
 }
+*/
